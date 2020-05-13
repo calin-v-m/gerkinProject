@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e210cfe5-9284-4c6b-b371-9eee87ba01fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/navigation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/navigation.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/steps/interactions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/steps/interactions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/steps/navigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/steps/navigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/content.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/steps/content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1boXZuyfDUQjMWyahhvNX1EcYPm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,22 +86,22 @@
       <screen x="0" y="27" width="1366" height="676" />
     </state>
     <state x="466" y="123" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.676@0.27.1366.676" timestamp="1589305092914" />
-    <state width="1343" height="289" key="GridCell.Tab.0.bottom" timestamp="1589308767541">
+    <state width="1343" height="208" key="GridCell.Tab.0.bottom" timestamp="1589364382866">
       <screen x="0" y="27" width="1366" height="676" />
     </state>
-    <state width="1343" height="289" key="GridCell.Tab.0.bottom/0.27.1366.676@0.27.1366.676" timestamp="1589308767541" />
-    <state width="1343" height="289" key="GridCell.Tab.0.center" timestamp="1589308767541">
+    <state width="1343" height="208" key="GridCell.Tab.0.bottom/0.27.1366.676@0.27.1366.676" timestamp="1589364382866" />
+    <state width="1343" height="208" key="GridCell.Tab.0.center" timestamp="1589364382865">
       <screen x="0" y="27" width="1366" height="676" />
     </state>
-    <state width="1343" height="289" key="GridCell.Tab.0.center/0.27.1366.676@0.27.1366.676" timestamp="1589308767541" />
-    <state width="1343" height="289" key="GridCell.Tab.0.left" timestamp="1589308767540">
+    <state width="1343" height="208" key="GridCell.Tab.0.center/0.27.1366.676@0.27.1366.676" timestamp="1589364382865" />
+    <state width="1343" height="208" key="GridCell.Tab.0.left" timestamp="1589364382864">
       <screen x="0" y="27" width="1366" height="676" />
     </state>
-    <state width="1343" height="289" key="GridCell.Tab.0.left/0.27.1366.676@0.27.1366.676" timestamp="1589308767540" />
-    <state width="1343" height="289" key="GridCell.Tab.0.right" timestamp="1589308767541">
+    <state width="1343" height="208" key="GridCell.Tab.0.left/0.27.1366.676@0.27.1366.676" timestamp="1589364382864" />
+    <state width="1343" height="208" key="GridCell.Tab.0.right" timestamp="1589364382865">
       <screen x="0" y="27" width="1366" height="676" />
     </state>
-    <state width="1343" height="289" key="GridCell.Tab.0.right/0.27.1366.676@0.27.1366.676" timestamp="1589308767541" />
+    <state width="1343" height="208" key="GridCell.Tab.0.right/0.27.1366.676@0.27.1366.676" timestamp="1589364382865" />
     <state x="172" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1589300318191">
       <screen x="0" y="27" width="1366" height="676" />
     </state>
